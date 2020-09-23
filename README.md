@@ -16,12 +16,16 @@ git clone https://github.com/luismamm/campusciff.git
 
 2.4 Hacemos commit en el README.md, para ello utilizamos los comandos:
 git add . --a , git commit -m "commit inicial"
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/3.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/4.png)
 
 2.5 Subimos los cambios hechos al repositorio remoto con el comando:
 git push
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/5.png)
 
 2.6 Creamos en el repositorio local el fichero 'privado.txt' y la carpeta
 'privada'
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/6.png)
 
 2.7 Creamos el archivo .gitignore y dentro de este archivo escribimos:
 privada
