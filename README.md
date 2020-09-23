@@ -6,7 +6,7 @@ Ejercicios 01
 
 
 2.1 Creamos el repositorio campusciff en GitHub
-
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/1.png)
 2.2 Clonamos nuestro repositorio en local con el comando: 
 git clone https://github.com/luismamm/campusciff.git
 
