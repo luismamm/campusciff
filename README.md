@@ -58,30 +58,40 @@ Ejercicios 02
 2.2 Creamos una rama 'v0.2' con el comando: git branch v0.2
 Y posicionamos la carpeta de trabajo en la rama creada con el comando:
 git checkout v0.2
-![alt text]()
+
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/15.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/16.png)
 
 2.3 Creamos un fichero '2.txt' en la rama v0.2 y usamos los comandos:
 git add . --a , git commit -m "fichero 2.txt añadido"
-![alt text]()
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/17.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/18.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/19.png)
 
 2.4 Subimos los cambios al repositorio remoto con el comando:
 git push --set-upstream origin v0.2
-![alt text]()
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/20.png)
 
 2.5 Nos posicionamos en la rama master con el comando: git checkout master
 A continuación fusionamos la rama v0.2 en la rama master con el comando:
 git merge v0.2 -m "merge v0.2 a master"
-![alt text]()
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/21.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/22.png)
 
 2.6 Estando ya en la rama master, ponemos Hola en el fichero 1.txt.
 A continuación utilizamos los comandos: git add . --a , 
 git commit -m "mensaje añadido en 1.txt"
-![alt text]()
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/23.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/24.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/25.png)
 
 2.7 Nos posicionamos en la rama v0.2 con el comando: git checkout v0.2
 Ahora ponemos Adios en el fichero '1.txt' y ponemos los siguientes
 comandos: git add . --a , git commit -m "mensaje añadido en 1.txt"
-![alt text]()
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/26.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/27.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/28.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/29.png)
 
 2.8 Nos posicionamos ahora en la rama master y hacemos un merge con 
 la rama v0.2. Ponemos los comandos: git checkout master , 
