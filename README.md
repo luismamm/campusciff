@@ -138,4 +138,5 @@ de nuestros compañeros.
 2.15 Creamos un index.html para que la organización lo vea.
 
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/42.PNG)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/43.PNG)
 
