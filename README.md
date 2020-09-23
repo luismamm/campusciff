@@ -1,5 +1,10 @@
 # campusciff - Luis Manuel Muñoz Merino
+
+
+
 Ejercicios 01
+
+
 2.1 Creamos el repositorio campusciff en GitHub
 
 2.2 Clonamos nuestro repositorio en local con el comando: 
@@ -30,7 +35,9 @@ git add . --a , git commit -m "fichero 1.txt añadido"
 2.10 Subimos la etiqueta con el comando: git push --tags
 
 
+
 Ejercicios 02
+
 
 2.2 Creamos una rama 'v0.2' con el comando: git branch v0.2
 Y posicionamos la carpeta de trabajo en la rama creada con el comando:
