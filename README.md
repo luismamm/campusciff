@@ -64,6 +64,7 @@ git checkout v0.2
 
 2.3 Creamos un fichero '2.txt' en la rama v0.2 y usamos los comandos:
 git add . --a , git commit -m "fichero 2.txt añadido"
+
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/17.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/18.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/19.png)
