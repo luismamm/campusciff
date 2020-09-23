@@ -32,6 +32,7 @@ privada
 privado.txt
 A continuación utilizamos los comandos: git add . --a , 
 git commit -m "archivos ignorados"
+
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/7.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/8.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/9.png)
@@ -46,6 +47,7 @@ git add . --a , git commit -m "fichero 1.txt añadido"
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/13.png)
 
 2.10 Subimos la etiqueta con el comando: git push --tags
+
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/14.png)
 
 
