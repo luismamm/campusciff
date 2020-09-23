@@ -131,6 +131,7 @@ de nuestros compañeros.
 
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/38.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/39.png)
+
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/40.PNG)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/41.PNG)
 
