@@ -98,12 +98,14 @@ comandos: git add . --a , git commit -m "mensaje añadido en 1.txt"
 2.8 Nos posicionamos ahora en la rama master y hacemos un merge con 
 la rama v0.2. Ponemos los comandos: git checkout master , 
 git merge v0.2 "merge de v0.2 en master"
+
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/29.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/30.png)
 
 2.9 Listamos las ramas segun el estado con merge y sin merge 
 utilizando los siguientes comandos: git branch --merged , 
 git branch --no-merged
+
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/31.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/32.png)
 
@@ -111,16 +113,23 @@ git branch --no-merged
 
 2.11 Creamos una etiqueta 'v0.2' con el comando: git tag v0.2
 Y borramos la rama 'v0.2' con el comando: git branch -d v0.2
+
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/33.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/34.png)
 
+2.12 Listamos los commits de las ramas y los tags con el comando: git log
+
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/36.png)
+
 2.13 Creamos una organización llamada: 'campusciff-luismamm'.
-![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/35.png)
+
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/37.png)
 
 2.14 Dentro de la organización creada creamos dos teams uno de 
 administradores y otro de colaboradores, y metemos en cada uno a dos
 de nuestros compañeros.
-![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/36.png)
-![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/37.png)
+
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/38.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/39.png)
 
 2.15 
