@@ -75,12 +75,14 @@ git push --set-upstream origin v0.2
 2.5 Nos posicionamos en la rama master con el comando: git checkout master
 A continuación fusionamos la rama v0.2 en la rama master con el comando:
 git merge v0.2 -m "merge v0.2 a master"
+
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/21.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/22.png)
 
 2.6 Estando ya en la rama master, ponemos Hola en el fichero 1.txt.
 A continuación utilizamos los comandos: git add . --a , 
 git commit -m "mensaje añadido en 1.txt"
+
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/23.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/24.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/25.png)
@@ -88,6 +90,7 @@ git commit -m "mensaje añadido en 1.txt"
 2.7 Nos posicionamos en la rama v0.2 con el comando: git checkout v0.2
 Ahora ponemos Adios en el fichero '1.txt' y ponemos los siguientes
 comandos: git add . --a , git commit -m "mensaje añadido en 1.txt"
+
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/26.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/27.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/28.png)
