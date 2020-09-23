@@ -131,10 +131,11 @@ de nuestros compañeros.
 
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/38.png)
 ![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/39.png)
-![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/40.png)
-![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/41.png)
+
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/40.PNG)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/41.PNG)
 
 2.15 Creamos un index.html para que la organización lo vea.
 
-![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/42.png)
+![alt text](https://github.com/luismamm/campusciff/blob/master/capturas/42.PNG)
 
