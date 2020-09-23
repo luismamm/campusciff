@@ -1,4 +1,4 @@
-# campusciff
+# campusciff - Luis Manuel Muñoz Merino
 Ejercicios 01
 2.1 Creamos el repositorio campusciff en GitHub
 2.2 Clonamos nuestro repositorio en local con el comando: 
@@ -43,4 +43,11 @@ git merge v0.2 "merge de v0.2 en master"
 2.9 Listamos las ramas segun el estado con merge y sin merge 
 utilizando los siguientes comandos: git branch --merged , 
 git branch --no-merged
-2.10 
+2.10 Arreglamos el conflicto haciendo merge.
+2.11 Creamos una etiqueta 'v0.2' con el comando: git tag v0.2
+Y borramos la rama 'v0.2' con el comando: git branch -d v0.2
+2.13 Creamos una organización llamada: 'campusciff-luismamm'.
+2.14 Dentro de la organización creada creamos dos teams uno de 
+administradores y otro de colaboradores, y metemos en cada uno a dos
+de nuestros compañeros.
+2.15 
